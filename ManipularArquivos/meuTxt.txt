@@ -1,0 +1,68 @@
+Primeira linha do arquivo para teste.
+Segunda linha para test. Abaixo ficará em branco, texto na quarta linha.
+
+Quarta linha e última para teste... 
+ Acrescentando dados no txt.. 
+Numero -> 0 adicionado 
+Numero -> 1 adicionado 
+Numero -> 2 adicionado 
+Numero -> 3 adicionado 
+Numero -> 4 adicionado 
+Numero -> 5 adicionado 
+Numero -> 6 adicionado 
+Numero -> 7 adicionado 
+Numero -> 8 adicionado 
+Numero -> 9 adicionado 
+Numero -> 10 adicionado 
+ 
+ Acrescentando dados no txt.. 
+Numero -> 0 adicionado 
+Numero -> 1 adicionado 
+Numero -> 2 adicionado 
+Numero -> 3 adicionado 
+Numero -> 4 adicionado 
+Numero -> 5 adicionado 
+Numero -> 6 adicionado 
+Numero -> 7 adicionado 
+Numero -> 8 adicionado 
+Numero -> 9 adicionado 
+Numero -> 10 adicionado 
+ 
+ Acrescentando dados no txt.. 
+Numero -> 0 adicionado 
+Numero -> 1 adicionado 
+Numero -> 2 adicionado 
+Numero -> 3 adicionado 
+Numero -> 4 adicionado 
+Numero -> 5 adicionado 
+Numero -> 6 adicionado 
+Numero -> 7 adicionado 
+Numero -> 8 adicionado 
+Numero -> 9 adicionado 
+Numero -> 10 adicionado 
+ 
+ Acrescentando dados no txt.. 
+Numero -> 0 adicionado 
+Numero -> 1 adicionado 
+Numero -> 2 adicionado 
+Numero -> 3 adicionado 
+Numero -> 4 adicionado 
+Numero -> 5 adicionado 
+Numero -> 6 adicionado 
+Numero -> 7 adicionado 
+Numero -> 8 adicionado 
+Numero -> 9 adicionado 
+Numero -> 10 adicionado 
+ 
+ Acrescentando dados no txt.. 
+Numero -> 0 adicionado 
+Numero -> 1 adicionado 
+Numero -> 2 adicionado 
+Numero -> 3 adicionado 
+Numero -> 4 adicionado 
+Numero -> 5 adicionado 
+Numero -> 6 adicionado 
+Numero -> 7 adicionado 
+Numero -> 8 adicionado 
+Numero -> 9 adicionado 
+Numero -> 10 adicionado 
